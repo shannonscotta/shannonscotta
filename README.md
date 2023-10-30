@@ -1,17 +1,38 @@
-# Hi, I'm Scott! 👋
+<h1 align="center"> Hi, I'm Scott! 👋</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines= Full stack developer;B.S. in Software Development Graduate; Based in Seattle, WA&center=true&width=500&height=100">
+  
+  </a>
+</p>
 
-I'm a full stack developer currently focusing on the PERN stack...
+<div align="center">
+
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />](https://www.postgresql.org/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />](https://expressjs.com/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />](https://react.dev/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />](https://nodejs.org/en/)
 
-## Skills
+</div>
 
-**Client:** JavaScript, React.js, HTML, CSS  
-**Server:** Node.js, Express.js, PostgreSQL, RESTful API’s  
-**Testing & Deployment:** Docker, GitLab, Render, Jest, Cypress  
-**Development:** Git, NPM, TDD, CI/CD, UI/UX  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shannonscotta&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
 
-## Languages
+<h1 align="center"> Skills </h1>
+
+<div align="center">
+<strong>Client:</strong> JavaScript, React.js, HTML, CSS </br>
+<strong>Server:</strong> Node.js, Express.js, PostgreSQL, RESTful API’s  </br>
+<strong>Testing & Deployment:</strong> Docker, GitLab, Render, Jest, Cypress </br>
+<strong>Development:</strong> Git, NPM, TDD, CI/CD, UI/UX, Agile </br>
+</div>
+<br>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonscotta&layout=donut-vertical)](https://github.com/shannonscotta/github-readme-stats)
 
-## Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
+</div>
+
+<div align="center">
+
+<span><strong>Let's connect!</strong></span> [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
+
+</div>
