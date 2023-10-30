@@ -27,8 +27,6 @@
 <br>
 <div align="center">
 
-<h1 align="center"> Languages </h1>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonscotta&layout=donut-vertical)](https://github.com/shannonscotta/github-readme-stats)
 
 </div>
