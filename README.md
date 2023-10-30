@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Scott! 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines= Full stack developer;B.S. in Software Development Graduate; Based in Seattle, WA&center=true&width=500&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+developer;B.S.+in+Software+Development+Graduate;Based+in+Seattle,+WA&center=true&width=500&height=100">
   
   </a>
 </p>
