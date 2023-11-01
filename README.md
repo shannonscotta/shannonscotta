@@ -33,7 +33,6 @@
 
 <div align="center">
 
-<h1>Let's connect!</h1> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /> (https://www.linkedin.com/in/shannonscotta)
+## Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
 
 </div>
