@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Scott! 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+developer;B.S.+in+Software+Development+Graduate;Currently+using+the+PERN+stack;Based+in+Seattle,+WA&center=true&width=500&height=75">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Currently+using+the+PERN+stack;Based+in+Seattle,+WA&center=true&width=500&height=75">
   
   </a>
 </p>
@@ -33,6 +33,6 @@
 
 <div align="center">
 
-<span><strong>Let's connect!</strong></span> [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
+<h1>Let's connect!</h1> [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
 
 </div>
