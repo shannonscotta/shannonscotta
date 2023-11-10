@@ -1,14 +1,14 @@
-<h1 align="center"> Hi, I'm Scott! </h1>
+<h1></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Currently+using+the+PERN+stack;Based+in+Seattle,+WA&center=true&width=500&height=75">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Scott.;I'm+a+full+stack+developer;Based+in+Seattle,+WA&center=true&width=500&height=75">
   
   </a>
 </p>
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />](https://www.postgresql.org/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />](https://expressjs.com/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />](https://react.dev/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />](https://nodejs.org/en/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />](https://www.postgresql.org/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" />](https://expressjs.com/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" />](https://react.dev/)[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" />](https://nodejs.org/en/)
 
 </div>
 
@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=shannonscotta&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
-<h1 align="center"> Skills </h1>
 
 <div align="center">
 <strong>Client:</strong> JavaScript, React.js, HTML, CSS </br>
@@ -33,6 +32,8 @@
 
 <div align="center">
 
-## Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shannonscotta&hide_border=true&border_radius=0&card_width=400)](https://git.io/streak-stats)
+
+Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
 
 </div>
