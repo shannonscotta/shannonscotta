@@ -32,8 +32,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shannonscotta&hide_border=true&border_radius=0&card_width=400)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=shannonscotta&hide_border=true&border_radius=0&card_width=400)](https://git.io/streak-stats)
 
-Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)
+Let's connect! [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />](https://www.linkedin.com/in/shannonscotta)  -->
 
 </div>
