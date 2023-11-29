@@ -19,8 +19,8 @@
 
 <div align="center">
 <strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
-<strong>Server:</strong> Node.js, Express.js, PostgreSQL, RESTful API’s  </br>
-<strong>Testing & Deployment:</strong> Docker, GitLab, Render, Vitest, Cypress </br>
+<strong>Server:</strong> Node.js, Express.js, PostgreSQL </br>
+<strong>Testing & Deployment:</strong> Docker, GitLab, Vitest, Cypress </br>
 <strong>Development:</strong> Git, NPM, TDD, CI/CD, UI/UX, Agile </br>
 </div>
 <br>
