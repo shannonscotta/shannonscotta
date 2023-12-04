@@ -20,8 +20,8 @@
 <div align="center">
 <strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
 <strong>Server:</strong> Node.js, Express.js, PostgreSQL </br>
-<strong>Testing & Deployment:</strong> Docker, GitLab, Vitest, Cypress </br>
-<strong>Development:</strong> Git, TDD, CI/CD, UI/UX, Agile </br>
+<strong>Testing & Deployment:</strong> Docker, Vitest, Cypress </br>
+<strong>Development:</strong> Git, CI/CD, UI/UX, Agile </br>
 </div>
 <br>
 <div align="center">
