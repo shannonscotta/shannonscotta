@@ -1,10 +1,10 @@
 <h1></h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Scott.;I'm+a+full+stack+developer;Based+in+Seattle,+WA&center=true&width=500&height=75">
   
   </a>
-</p>
+</p> 
 
 <div align="center">
 
@@ -12,17 +12,17 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shannonscotta&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-
 <div align="center">
 <strong>Client:</strong> JavaScript, React.js, Vite, HTML, CSS </br>
 <strong>Server:</strong> Node.js, Express.js, PostgreSQL </br>
 <strong>Testing & Deployment:</strong> Docker, Vitest, Cypress </br>
 <strong>Development:</strong> Git, CI/CD, UI/UX, Agile </br>
 </div>
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shannonscotta&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
 <br>
 <div align="center">
 
